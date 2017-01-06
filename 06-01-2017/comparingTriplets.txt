@@ -18,6 +18,13 @@ sample input1:
 sample output1:
 1 2
 
+Sample input2:
+10 20 30
+10 20 30
+
+sample output2:
+0 0
+
 
 
 
