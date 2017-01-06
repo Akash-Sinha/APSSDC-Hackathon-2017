@@ -1,0 +1,23 @@
+Comparing triplets:
+
+
+Given two triplets A and B, compare them and display their comparison points
+
+Input Format:
+Line 1: three space separated integers corresponding to A
+Line 2: three space separated integers corresponding to B
+
+Output Format:
+Single line containing two space separated integers
+
+
+sample input1:
+1 10 3
+3 4 5
+
+sample output1:
+1 2
+
+
+
+
