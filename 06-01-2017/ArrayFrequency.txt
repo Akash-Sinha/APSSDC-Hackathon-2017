@@ -12,6 +12,10 @@ k lines where each line contains the element and frequency separated by a whites
 Note: Output to be displayed in decending order of frequency. If two elements have same frequency, the element which comes 
 first in the array has to be displayed first
 
+Constraints: 
+0 <= n <= 10^5
+
+
 sample input:
 9
 12 23 34 12 23 23 34 15 18
