@@ -1,0 +1,26 @@
+
+Statement:
+Compare the last digits of n pairs integers and display their absolute difference
+
+Input Format:
+Line1: number of test cases n
+Next n lines contain
+Two integers in separated by whitespace in a every line
+
+Output Format:
+n lines containing a
+Single integer in a every line
+
+Sample Input1:
+123 234
+
+Sample Output1:
+1
+
+
+
+
+
+
+
+
