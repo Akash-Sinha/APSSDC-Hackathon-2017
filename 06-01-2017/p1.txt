@@ -1,0 +1,44 @@
+
+Given two integers, find the absolute difference and print it.
+
+Input Format: 
+line1: number of test cases n
+Next n lines contain the following
+Two integers separated by whitespace in a each line
+Output Format: 
+n lines where each line is a
+Single integer in a single line
+
+
+sample input1:
+3
+2 5
+3 4
+5 9
+
+Sample Output1:
+3
+1
+4
+
+sample input2:
+5
+4 4
+0 0
+1 9
+4 3
+6 3
+
+sample output2:
+0
+0
+8
+1
+3
+
+
+
+
+
+
+
