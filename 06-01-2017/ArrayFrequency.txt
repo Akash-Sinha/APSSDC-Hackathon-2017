@@ -14,7 +14,7 @@ first in the array has to be displayed first
 
 Constraints: 
 0 <= n <= 10^5
-
+1<= distinct elements <= 100
 
 sample input:
 9
