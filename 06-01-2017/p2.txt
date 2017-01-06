@@ -17,7 +17,9 @@ Sample Input1:
 Sample Output1:
 1
 
-
+explanation:
+last digit of 123 is 3 and last digit 234 is 4
+abs of 3 and 4 is 1
 
 
 
