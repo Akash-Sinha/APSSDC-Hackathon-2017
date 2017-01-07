@@ -13,8 +13,11 @@ Print the absolute difference between the two sums of the matrix's diagonals as 
 ##Sample Input
 
 3
+
 1 2 3
+
 4 5 6
+
 7 8 -9
 
 ##Sample Output
