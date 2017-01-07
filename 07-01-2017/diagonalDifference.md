@@ -13,9 +13,9 @@ Print the absolute difference between the two sums of the matrix's diagonals as 
 ##Sample Input
 
 3
-11 2 4
+1 2 3
 4 5 6
-10 8 -12
+7 8 -9
 
 ##Sample Output
 
@@ -24,15 +24,15 @@ Print the absolute difference between the two sums of the matrix's diagonals as 
 ##Explanation
 
 The primary diagonal is: 
-11
+1
       5
-            -12
+            -9
 
-Sum across the primary diagonal: 11 + 5 - 12 = 4
+Sum across the primary diagonal: 1 + 5 - 9 = -3
 
 The secondary diagonal is:
-            4
+            3
       5
-10
-Sum across the secondary diagonal: 4 + 5 + 10 = 19 
-Difference: |4 - 19| = 15
+7
+Sum across the secondary diagonal: 3 + 5 + 7 = 15 
+Difference: |-3 + 15| = 12
