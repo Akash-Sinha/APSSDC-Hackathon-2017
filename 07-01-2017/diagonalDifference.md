@@ -37,5 +37,7 @@ The secondary diagonal is:
             3
       5
 7
+
 Sum across the secondary diagonal: 3 + 5 + 7 = 15 
+
 Difference: |-3 + 15| = 12
